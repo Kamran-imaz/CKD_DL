@@ -11,10 +11,10 @@ This involved implementing our own customized ANN models with (9 hidden layers a
 # Model Evaluation
 Accuracy was used for evaluating the model performance
 
-Accuracy of Custom ANN : 72.82%
-Accuracy of SVC : 94.29%
-and after stacking the 
-Accuracy of Random Forest : 90.32%
+- Accuracy of Custom ANN : 72.82%
+- Accuracy of SVC : 94.29%
+- and after stacking the 
+- Accuracy of Random Forest : 90.32%
 # References
 - [Dataset](https://www.kaggle.com/datasets/mansoordaku/ckdisease)
 - [Keras](https://keras.io/)
